@@ -4,7 +4,7 @@
 **Author**: pahoalapizco
 
 
-Exploratory Data Analysis of palmer penguins data set, this project is part of the course "Análisis exploratorio de datos" by [Platzi](www.platzi.com).
+Exploratory Data Analysis of palmer penguins data set, this project is part of the course ["Análisis exploratorio de datos"](https://platzi.com/cursos/analisis-exploratorio-datos/) by [Platzi](https://www.platzi.com).
 
 ## Prerequisites
 - Anaconda >=4.x 
@@ -13,6 +13,10 @@ Exploratory Data Analysis of palmer penguins data set, this project is part of t
 ```bash
 conda env create -f environment environment.yml
 activate eda_penguins
+```
+## Run project as a module
+```bash
+pip install --editable .
 ```
 
 ## Project organisation
